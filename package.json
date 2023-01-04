@@ -28,7 +28,7 @@
     }
   },
   "dependencies": {
-    "fusuma": "^1.6.0"
+    "fusuma": "^2.8.4"
   },
   "devDependencies": {
     "@types/fs-extra": "^7.0.0",
